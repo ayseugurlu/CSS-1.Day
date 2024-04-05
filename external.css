@@ -1,0 +1,31 @@
+/* *{
+    border: 2px solid black;
+} */
+
+
+body{
+    background-color: lemonchiffon;
+}
+
+h1{
+    color: red;
+    border: 2px solid black;
+}
+
+li{
+    color:green;
+    list-style-type: none;
+    margin-right: 50px;
+    display:inline;
+}
+
+li:hover{
+    font-size: 20px;
+    color: crimson;
+    
+}
+
+/* .list{
+    background-color: aquamarine;
+} */
+

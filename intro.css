@@ -1,0 +1,17 @@
+#par3{
+    background-color: magenta;
+
+}
+/* inline Css baskindir ama digerleri yazildigi siraya göre etkiler. */
+
+
+.ortak{
+    background-color: olive;
+    background-color: coral;
+}
+
+#paragraf3{
+    background-color: red;
+}
+
+/* id class a göre daha önceliklidir.yeri farketmez. */
